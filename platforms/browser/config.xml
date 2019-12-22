@@ -17,7 +17,6 @@
     <access origin="*" subdomains="true" />
     <allow-intent href="*" />
     <allow-navigation href="*" />
-    <allow-navigation href="http://bluepointapp.azurewebsites.net/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
@@ -25,5 +24,5 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-minSdkVersion" value="28" />
 </widget>
